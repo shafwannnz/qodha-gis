@@ -1,0 +1,5 @@
+{
+  "type": "FeatureCollection",
+  "features": [],
+  "_comment": "Placeholder kosong. Ganti file ini dengan GeoJSON batas administratif provinsi/kabupaten dari GADM (https://gadm.org) atau Badan Informasi Geospasial (BIG), lalu sesuaikan nama field properti (misal NAME_1 / WADMPR) di public/js/leaflet-map.js fungsi loadChoropleth()."
+}

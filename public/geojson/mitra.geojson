@@ -1,0 +1,1425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86035,
+          -6.23171
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "nama_mitra": "Pak Azmi",
+        "nama_toko": "Abdul Parfume",
+        "no_hp": "0857-1874-4798 /  0812-8273-8461",
+        "kategori": "Super Distributor",
+        "status": "Aktif",
+        "wilayah": "Banten",
+        "alamat_lengkap": "Jalan Rhm Noeradji Gg Masjid Al Jihad, RT.4/RW.4, Mede,Kelurahan Sumur Pacing Karawaci (Samping Soto Rizki), 15114, Sumur Pancing (Pacing), Karawaci, Kota Tangerang, Banten, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.316659,
+          -0.710365
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "nama_mitra": "Fahmi Al Hamid",
+        "nama_toko": "Hamid Store",
+        "no_hp": "0852-9928-1512",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Kalimantan timur",
+        "alamat_lengkap": "Jln. Otto iskandardinata  no49 Sambutan Kota samarindaKalimantan timur 75115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.009028,
+          -6.856773
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "nama_mitra": "Rochmat",
+        "nama_toko": "",
+        "no_hp": "0857-1943-3100",
+        "kategori": "Super Distributor",
+        "status": "Aktif",
+        "wilayah": "Kota Bogor",
+        "alamat_lengkap": "jln.pasir kuda,bojong menteng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763989,
+          -6.544031
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "nama_mitra": "Anshorullah / Toko Serbaharum",
+        "nama_toko": "Toko Serbaharum",
+        "no_hp": "0856-9266-9601/0859-4744-4456",
+        "kategori": "Super Distributor",
+        "status": "Aktif",
+        "wilayah": "Depok",
+        "alamat_lengkap": "D Arjuna Residence Blok C4, Ratujaya, Cipayung, Depok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17527,
+          -0.79218
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "nama_mitra": "Syarifah Soraya",
+        "nama_toko": "Syarifah Soraya Alaydrus",
+        "no_hp": "0821-4910-3077",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Kalimantan Timur",
+        "alamat_lengkap": "Barrus Collection Jln Adam Malik Perumahan citra griya Blok C no 2Kec. Karang asam Kel.sungai kunjang Samarinda - kaltim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.107216,
+          -0.665008
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "nama_mitra": "Novi Nuryanti / Arabian Gallery Samarinda",
+        "nama_toko": "Arabian Gallery Samarinda",
+        "no_hp": "0895-3602-18329",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Kalimantan Timur",
+        "alamat_lengkap": "Jl. slamet riyadi karang asam ilir no  22 Kecamatan sungai kunjang Samarinda kaltim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.940369,
+          -0.56746
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "nama_mitra": "ASAKOTI DISTRO MUSLIM",
+        "nama_toko": "ASAKOTI DISTRO MUSLIM",
+        "no_hp": "0822-2042-4643",
+        "kategori": "Distributor",
+        "status": "Non Aktif",
+        "wilayah": "Kalimantan Timur",
+        "alamat_lengkap": "Jl. P Antasari No.33, Air Putih, Kec. Samarinda Ulu,Kota Samarinda, Kalimantan Timur 75243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.363912,
+          -6.90778
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "nama_mitra": "KOPERASI RIBATH",
+        "nama_toko": "KOPERASI RIBATH",
+        "no_hp": "0823-1425-0126",
+        "kategori": "Distributor",
+        "status": "Non Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Ponpes Ribath Nurul Hidayah, Jl. Masjid Baiturrokhim RT 05/RW 01 Ds. Bedug, Kec.  Pangkah, Tegal, Jawa Tengah 52471, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.159685,
+          -5.660189
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "nama_mitra": "SAUDI STORE ACEH",
+        "nama_toko": "SAUDI STORE ACEH",
+        "no_hp": "0852-6000-9005",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Aceh",
+        "alamat_lengkap": "ln. Dr. Muhammad Hasan No. 73 Kota Banda Aceh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.130504,
+          -6.414552
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "nama_mitra": "Muhammad alatas / ABU ALI",
+        "nama_toko": "ABU ALI",
+        "no_hp": "0856-9329-4695",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jakarta",
+        "alamat_lengkap": "jln.condet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.068041,
+          -6.861916
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "nama_mitra": "RAHMAH",
+        "nama_toko": "Ramah Collection",
+        "no_hp": "0823-5251-9507",
+        "kategori": "Distributor",
+        "status": "Non Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "jalan simongan no 29, seberang DPD PAN (DIKIRIM JAM KERJA) SEMARANG - JATENG 50148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.282726,
+          -7.325074
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "nama_mitra": "Pak Tridatu",
+        "nama_toko": "Tridatu Aromatic",
+        "no_hp": "0816-3336-80",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "jalan simongan no 29, seberang DPD PAN (DIKIRIM JAM KERJA) SEMARANG - JATENG 50148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.053478,
+          -0.634051
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "nama_mitra": "Rini Herdawati",
+        "nama_toko": "Rini Aromatic",
+        "no_hp": "0852-4956-1413",
+        "kategori": "Reseller",
+        "status": "Non Aktif",
+        "wilayah": "Kalimantan Timur",
+        "alamat_lengkap": "Jalan A W Syahranie Gang HJ Syahdan No 137 RT 24 Samarinda Ilir (depan kantor balong) SAMARINDA UTARA KOTA SAMARINDA  KALIMANTAN TIMUR  ID 75118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.249162,
+          -7.393468
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "nama_mitra": "Ali alaydrus / TOKO ROCHIS PARFUM",
+        "nama_toko": "TOKO ROCHIS PARFUM",
+        "no_hp": "0857-4057-6626",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jln. Raya Margoyoso, Kec. Kalinyamatan Jepara. (Barat RM.HJ.ISMUN)KALINYAMATAN, KAB. JEPARA, JAWA TENGAH , ID 59467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.032123,
+          -7.405309
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "nama_mitra": "Bpk Ading BSA",
+        "nama_toko": "Ading BSA",
+        "no_hp": "0818-0288-2130",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jl Ks Tubun No 84,Randugunting Tegal,Depan Aspol R Soeprapto Tegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.425425,
+          -0.091615
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "nama_mitra": "Saleh / Toko Abadi fashion kalimantan",
+        "nama_toko": "Toko Abadi fashion kalimantan",
+        "no_hp": "0856-5085-5390",
+        "kategori": "Distributor",
+        "status": "Non Aktif",
+        "wilayah": "Kalimantan Barat",
+        "alamat_lengkap": "TK Abadi  Jl Panglima Aim no 88  Kota Pontianak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.118145,
+          -7.187048
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "nama_mitra": "AQIM SYAYID / RENKURA PARFUME",
+        "nama_toko": "RENKURA PARFUME",
+        "no_hp": "0819-1520-9835",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Alamat Pon.pes Attauhidiyyah cikura bojong tegal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.310915,
+          -7.347527
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "nama_mitra": "Akhmad syarif / KURMANIS",
+        "nama_toko": "KURMANIS",
+        "no_hp": "0812-1992-5220",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jl. Palagan Tentara Pelajar KM.9,5 No.20, RT.04, Wonorejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.211403,
+          -6.872838
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "nama_mitra": "Al Manshuroh",
+        "nama_toko": "Namira Travel",
+        "no_hp": "0812-2917-6360",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jl. Prof. Sudarto No.1, Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50725,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.000649,
+          -7.21083
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "nama_mitra": "Pak Agus Batik Sono",
+        "nama_toko": "Batik sono kembang",
+        "no_hp": "0818-317-806",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jl. Jendral Sudirman No.54, RW.1, Kepuh, Kec. Batang, Kabupaten Batang, Jawa Tengah 51216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.264188,
+          -0.220061
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "nama_mitra": "THOMY NAUFAL / Toko cahaya muslim",
+        "nama_toko": "Toko cahaya muslim",
+        "no_hp": "0812-7472-2226",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Kalimantan Timur",
+        "alamat_lengkap": "Jl kh abd marisi no 90(SAMPING masjid raya darusalam) Kaltim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.318402,
+          0.57623
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "nama_mitra": "Nahdiyah / Roudhy Al mustofa",
+        "nama_toko": "Roudhy Al mustofa",
+        "no_hp": "0822-4920-2809",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Pekanbaru",
+        "alamat_lengkap": "Ponpes Kandangan An Nahdiyah Desa Rawang Kao,Blok C  Kec.Lubuk Dalam Kab.Siak Pekanbaru Riau 28654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.258015,
+          -6.923477
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "nama_mitra": "Solich / Aura parfum",
+        "nama_toko": "Aura parfum",
+        "no_hp": "0813-1909-7755",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jl.madureksankel  langgar dalem kec kota No 22 kode pos 59315 Kudus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.151651,
+          0.969519
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "nama_mitra": "Abdul Halim / Mumtaz Parfum",
+        "nama_toko": "Mumtaz Parfum",
+        "no_hp": "0895-0855-8750",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Batam",
+        "alamat_lengkap": "Kepulauan Riau kota Batam sekupang PERUM GRaHa Namarina BLOK D3 NO 4 Kel Tanjung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.386406,
+          -6.930294
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "nama_mitra": "IvA Mahmuda / Jasmine Parfum",
+        "nama_toko": "Jasmine Parfum",
+        "no_hp": "0858-2529-170",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Jalana menara no 29 a  kel langgerdalem kec kota kode pos 59315 Kudus Jateng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.901041,
+          -7.015625
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "nama_mitra": "Abdul Khaliq / TOKO HEDILSA AL KAFF",
+        "nama_toko": "TOKO HEDILSA AL KAFF",
+        "no_hp": "0813-6964-4046",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Barat",
+        "alamat_lengkap": "Prapatan pasar Ancaran. Jl R.E MARTADINATA DESA ANCARAN Kec/Kab KUNINGAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.45819,
+          -7.06709
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "nama_mitra": "Habib Hasan MD / TOKO HEDILSA AL KAFF",
+        "nama_toko": "TOKO HEDILSA AL KAFF",
+        "no_hp": "0896-3660-5748",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Barat",
+        "alamat_lengkap": "(prapatan pasar  ancaran) Jl. R. E. Martadinata. Desa  ancaran. Kec. Kuningan. Kab. KuninganJawa Barat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.041571,
+          -3.165928
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "nama_mitra": "Ardiansyah / Berkat parfum",
+        "nama_toko": "Berkat parfum",
+        "no_hp": "0852-4810-6540",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Kalimantan Selatan",
+        "alamat_lengkap": "Jl Jeruk/Dukuh jaya GG Terong Kav 3 Banjar Baru Utara Kota Banjar Baru Kalimantan Selatan ID 70714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.288433,
+          -8.367251
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "nama_mitra": "Titian",
+        "nama_toko": "Titian Aromatic",
+        "no_hp": "0819-1730-4050",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "NTB",
+        "alamat_lengkap": "Jln.Prasarana No.7 Gamong Kec. Selaparang Kota Mataram Nusa Tenggara Barat 83126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.873671,
+          -7.026888
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "nama_mitra": "Zulfa / Toko KANZA Busana",
+        "nama_toko": "Toko KANZA Busana",
+        "no_hp": "0813-2984-2903",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "jl Bantean belakang pasar Moga sebelah selatan, Banyumudal Moga Pemalang Kode POS : 52354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.085924,
+          -7.213283
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "nama_mitra": "sulardi / Mbako",
+        "nama_toko": "Mbako",
+        "no_hp": "0821-3494-2502",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "ngepung 5/3 karanganyar, weru. sukoharjo. jateng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.242206,
+          -0.042539
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "nama_mitra": "Toko Annagib",
+        "nama_toko": "Toko Annagib",
+        "no_hp": "0815-4503-2772",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Pontianak",
+        "alamat_lengkap": "Jln Panglima Aim Pasar Seruni Pontianak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.986966,
+          0.163431
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "nama_mitra": "CS Sunnah Store / Sunnah Store",
+        "nama_toko": "Sunnah Store",
+        "no_hp": "0852-6593-3111",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Riau",
+        "alamat_lengkap": "Pematang Reba - kab.inhu - Riau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.217016,
+          -7.202682
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "nama_mitra": "Achmad Fauzan / Fauzan Store",
+        "nama_toko": "Fauzan Store",
+        "no_hp": "0878-3994-3894",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "bentangan cilik, Dusun III, Doplang, Teras, Boyolali Regency, Central Java 57372, Indonesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.046489,
+          -6.309189
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "nama_mitra": "Azmi (Luthfi)",
+        "nama_toko": "Luthfi Store",
+        "no_hp": "0816-1792-1249",
+        "kategori": "Super Distributor",
+        "status": "Aktif",
+        "wilayah": "Kota Bogor",
+        "alamat_lengkap": "baranang siang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.395193,
+          2.999658
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "nama_mitra": "Muhammad Siddiq",
+        "nama_toko": "Siddiq Malaysia",
+        "no_hp": "60 10-599 0084",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Malaysia",
+        "alamat_lengkap": "Lot:9339-B Batu 17 Jalan Sharifah K Akal di Ulu Dusun Tua Hulu Langat 43100 Selangor Malaysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57247,
+          -2.879182
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "nama_mitra": "Ibu Musbar",
+        "nama_toko": "Musbar Collection",
+        "no_hp": "0812-7941-9109",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bangka Belitung",
+        "alamat_lengkap": "Jl Kapten Hasan Basri Belakang Kantor Pemda Tanjungpandan Belitung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.517076,
+          -6.875161
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "nama_mitra": "Pak Irvan Firmansyah Ciannjur",
+        "nama_toko": "Irvan Collection Oleh Oleh Haji dan Umroh",
+        "no_hp": "",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bandung",
+        "alamat_lengkap": "Jl. Arwinda Kp sasak rt. 004,/007 no.45, Jamali, Kec. Mande, Kabupaten Cianjur, Jawa Barat 43292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.225103,
+          -0.68031
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "nama_mitra": "Tk Yaser Multazam",
+        "nama_toko": "Tk Yaser Multazam",
+        "no_hp": "0818-575-882",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Kalimantan Timur",
+        "alamat_lengkap": "Jl. Jendral A. Yani RT 22 No. 15 Karang Jati, Balikpapan, Kalimantan Timur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.755928,
+          -6.747799
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "nama_mitra": "Teddy / Teddy Store",
+        "nama_toko": "Teddy Store",
+        "no_hp": "0856-9410-9552",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "jln.gunung batu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.264235,
+          -6.805873
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "nama_mitra": "Kholid / kholid bajrey",
+        "nama_toko": "kholid bajrey",
+        "no_hp": "0819-1254-1071",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Purwakarta",
+        "alamat_lengkap": "gg.banteng 2[tk.alifa]rt.03.rw.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.212901,
+          -7.226839
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "nama_mitra": "Asep / mikbaul hikmah",
+        "nama_toko": "mikbaul hikmah",
+        "no_hp": "0857-2342-2009",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Sukabumi",
+        "alamat_lengkap": "Pasar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.86479,
+          -6.920229
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "nama_mitra": "Bah Dolly / doli store",
+        "nama_toko": "doli store",
+        "no_hp": "0815-6319-2996",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Sukabumi",
+        "alamat_lengkap": "Pasar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.373951,
+          -6.804212
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "nama_mitra": "Hasan / Hasan Cianjur",
+        "nama_toko": "Hasan Cianjur",
+        "no_hp": "0815-6319-2996",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Cianjur",
+        "alamat_lengkap": "Pasar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.832508,
+          -6.683651
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "nama_mitra": "Usman / Toko Usman",
+        "nama_toko": "Toko Usman",
+        "no_hp": "0813-8977-9285",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Kota Batu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.858488,
+          -6.82776
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "nama_mitra": "Ela / Toko Ahlan",
+        "nama_toko": "Toko Ahlan",
+        "no_hp": "0878-6599-5750",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Empang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.015816,
+          -6.481816
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "nama_mitra": "abdillah segaf / Toko Turky",
+        "nama_toko": "Toko Turky",
+        "no_hp": "0857-1610-2254",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Empang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.046058,
+          -6.496777
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "nama_mitra": "Abdulillah / Toko Hikmah",
+        "nama_toko": "Toko Hikmah",
+        "no_hp": "0815-7571-2284",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Empang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.040499,
+          -6.409425
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "nama_mitra": "Toto / Al Hasby",
+        "nama_toko": "Al Hasby",
+        "no_hp": "0811-177-926",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Jl Sumeru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.078367,
+          -6.64538
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "nama_mitra": "Mama Baghir / Bin Ali",
+        "nama_toko": "Bin Ali",
+        "no_hp": "0895-3322-46892",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Empang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.967582,
+          -6.763979
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "nama_mitra": "Muiz / Altara",
+        "nama_toko": "Altara",
+        "no_hp": "0812-1094-3999",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Pasar Bogor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801877,
+          -5.939601
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "nama_mitra": "Rizal / Rizal Bekasi",
+        "nama_toko": "Rizal Bekasi",
+        "no_hp": "0896-3612-0539",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bekasi",
+        "alamat_lengkap": "jln.pondok timur indah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.060395,
+          -6.824492
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "nama_mitra": "Iwan Bahanan / toko yaman [ iwan ]",
+        "nama_toko": "toko yaman [ iwan ]",
+        "no_hp": "0856-9792-2662",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "jln.raya empang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91017,
+          -6.802197
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "nama_mitra": "H.bagir alatas",
+        "nama_toko": "H.bagir alatas",
+        "no_hp": "0877-7950-6549",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "jln.raya ciomas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.542496,
+          0.637437
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "nama_mitra": "ammar / ammar parfum",
+        "nama_toko": "ammar parfum",
+        "no_hp": "0851-5751-1016",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Pekanbaru",
+        "alamat_lengkap": "Pekanbaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.548009,
+          -6.486679
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "nama_mitra": "fadillah bahanan",
+        "nama_toko": "fadillah bahanan",
+        "no_hp": "0815-7571-2284",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Empang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793004,
+          -6.469285
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "nama_mitra": "abdurahman / abdurahman colection",
+        "nama_toko": "abdurahman colection",
+        "no_hp": "0818-0878-5399",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Depok",
+        "alamat_lengkap": "Depok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.008758,
+          -6.309913
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "nama_mitra": "Asif / toko asif",
+        "nama_toko": "toko asif",
+        "no_hp": "0823-1230-1171",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jakarta",
+        "alamat_lengkap": "Kebon Jeruk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.578752,
+          0.48015
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "nama_mitra": "pak hud / latansa parfum",
+        "nama_toko": "latansa parfum",
+        "no_hp": "0853-4785-9191",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Pekanbaru",
+        "alamat_lengkap": "Pekanbaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.08495,
+          -6.399749
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "nama_mitra": "Ibu ema",
+        "nama_toko": "Ibu ema",
+        "no_hp": "0812-1899-797",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jakarta",
+        "alamat_lengkap": "Ciputat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.120442,
+          -7.1264
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "nama_mitra": "shahab / syafiq shahab",
+        "nama_toko": "syafiq shahab",
+        "no_hp": "0878-3826-5102",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jawa Tengah",
+        "alamat_lengkap": "Kediri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.062742,
+          -6.11277
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "nama_mitra": "nashir / mustopa center",
+        "nama_toko": "mustopa center",
+        "no_hp": "0878-8823-4515",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Jakarta",
+        "alamat_lengkap": "Tanah Abang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.131543,
+          -4.383043
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "nama_mitra": "hasan zubaidi",
+        "nama_toko": "hasan zubaidi",
+        "no_hp": "0813-7962-7122",
+        "kategori": "Reseller",
+        "status": "Aktif",
+        "wilayah": "Lampung",
+        "alamat_lengkap": "Lampung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.720157,
+          -6.064709
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "nama_mitra": "Hadi / hadi mekkah",
+        "nama_toko": "hadi mekkah",
+        "no_hp": "0877-7060-9387",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Jakarta",
+        "alamat_lengkap": "Tanah Abang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.875473,
+          -6.293325
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "nama_mitra": "jawad / Al Jawad Parfume",
+        "nama_toko": "Al Jawad Parfume",
+        "no_hp": "0821-1486-9299",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Tangerang",
+        "alamat_lengkap": "Tangerang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.73426,
+          -7.076566
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "nama_mitra": "asep / asep darusurur",
+        "nama_toko": "asep darusurur",
+        "no_hp": "0899-7953-471",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bandung",
+        "alamat_lengkap": "ciroyom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.104473,
+          -6.706248
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "nama_mitra": "Helmi",
+        "nama_toko": "Helmi",
+        "no_hp": "",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Bogor",
+        "alamat_lengkap": "Puncak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.469621,
+          -7.033607
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "nama_mitra": "jajang jaelani/siti roudoh / Toko Kitab Baru",
+        "nama_toko": "Toko Kitab Baru",
+        "no_hp": "0895-3128-3464 / 08987122265",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Kota Cimahi",
+        "alamat_lengkap": "jl pesantren dalam no 229 rt 06 rw 15 Desa cibabat Kec cimahi utara Kota cimahi, Jabar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.542828,
+          0.579505
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "nama_mitra": "Dani Ikkostore.id",
+        "nama_toko": "Dani Ikkostore.id",
+        "no_hp": "0822-8437-1450 / 0819 66 8484",
+        "kategori": "Distributor",
+        "status": "Aktif",
+        "wilayah": "Pekanbaru",
+        "alamat_lengkap": "Jl. Lobak No.03, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28292 (Sebrang Indomaret)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.700259,
+          -7.466461
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "nama_mitra": "Fitriia NP",
+        "nama_toko": "Java Line",
+        "no_hp": "081315888007",
+        "kategori": "Agen",
+        "status": "Aktif",
+        "wilayah": "Sukoharjo",
+        "alamat_lengkap": "Jl Merak No.23 Nguruki Cemani Kec.Grogol, Kab. Sukoharjo, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.028146,
+          -6.467225
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "nama_mitra": "Erwin",
+        "nama_toko": "Toko Kembar Collectionss",
+        "no_hp": "0895386941228",
+        "kategori": "Agen",
+        "status": "Aktif",
+        "wilayah": "Bojonggede",
+        "alamat_lengkap": "Jl. Tugu Pahlawan RT 02 RW 011, Ruko Putri, Depan Sekolah SMPI Darussalam Bojonggede Bogor, Jawa Barat."
+      }
+    }
+  ]
+}
