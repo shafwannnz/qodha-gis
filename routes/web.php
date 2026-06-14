@@ -23,8 +23,15 @@ Route::prefix('api/mitras')->group(function () {
 });
 
 // ============================================================
-// Admin Authentication (guest only)
+// Admin Authentication
 // ============================================================
+//
+// SESI ADMIN:
+// - Middleware "guest" (App\Http\Middleware\RedirectIfAuthenticated)
+//   -> jika admin SUDAH LOGIN, /admin/login otomatis redirect
+//      ke /admin/dashboard. Form login TIDAK BISA diakses lagi
+//      sampai admin logout.
+//
 Route::middleware('guest')->group(function () {
     Route::get('/admin/login', [AuthController::class, 'showLoginForm'])->name('admin.login');
     Route::post('/admin/login', [AuthController::class, 'login'])->name('admin.login.attempt');
@@ -35,11 +42,16 @@ Route::post('/admin/logout', [AuthController::class, 'logout'])
     ->name('admin.logout');
 
 // ============================================================
-// Admin Protected Routes (auth required)
+// Admin Protected Routes
 // ============================================================
+//
+// Middleware "auth" (App\Http\Middleware\Authenticate, custom)
+// -> jika BELUM LOGIN dan mengakses /admin/dashboard atau
+//    /admin/mitras/*, redirect ke route('admin.login')
+//    (BUKAN ke route 'login' yang tidak ada -> mencegah 404/500).
+//
 Route::middleware('auth')->prefix('admin')->name('admin.')->group(function () {
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
-    // CRUD data mitra
     Route::resource('mitras', AdminMitraController::class)->except(['show']);
 });
