@@ -1,5 +1,3 @@
-readme_content = """# 🗺️ Qodha GIS — Sistem Informasi Geografis Pemetaan Mitra
-
 [![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D%208.2-777bb4.svg)](https://www.php.net/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
