@@ -34,7 +34,7 @@
         <div class="flex flex-col items-center text-center gap-6">
 
             {{-- Logo Qodha — ukuran kecil, proporsional, tidak di-crop --}}
-            <img src="{{ asset('images/qodha-footer.jpg') }}" alt="Qodha Aromatic"
+            <img src="{{ asset('images/qodha-footer.png') }}" alt="Qodha Aromatic"
                  class="w-28 sm:w-32 h-auto object-contain">
 
             <div>

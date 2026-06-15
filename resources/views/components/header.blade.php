@@ -17,15 +17,15 @@
 
             <a href="{{ route('map.index') }}" class="flex items-center gap-2 group">
                 <img src="{{ asset('images/logo-qodha.png') }}" alt="Qodha Aromatic" class="h-8 w-auto object-contain">
-                <div class="font-display font-semibold text-lg tracking-tight">
+                
+                {{-- <div class="font-display font-semibold text-lg tracking-tight">
                     Qodha <span class="text-ink-400 font-normal">GIS</span>
-                </div>
+                </div> --}}
             </a>
 
             {{-- Desktop nav --}}
             <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-ink-300">
                 <a href="#peta" class="nav-underline hover:text-white transition-colors">Peta</a>
-                <a href="#syarat-ketentuan" class="nav-underline hover:text-white transition-colors">Syarat &amp; Ketentuan</a>
                 <a href="#produk" class="nav-underline hover:text-white transition-colors">Produk</a>
                 <a href="#kemitraan" class="nav-underline hover:text-white transition-colors">Kemitraan</a>
                 <a href="#about" class="nav-underline hover:text-white transition-colors">Tentang</a>
