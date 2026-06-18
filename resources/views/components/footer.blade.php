@@ -78,8 +78,8 @@
 
         {{-- Copyright --}}
         <div class="mt-10 pt-6 border-t flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-ink-500" style="border-color: var(--border-color);">
-            <p>&copy; {{ date('Y') }} Qodha Aromatic. Sistem Informasi Geografis Persebaran Mitra.</p>
-            <p>Dibangun dengan Laravel + Leaflet JS</p>
+            <p>&copy; {{ date('Y') }} Aromatic Sunnah. All Rights Reserved. Qodha Aromatic - Ignite Your Life.</p>
+            <p>Shafawannn Dev 2026</p>
         </div>
     </div>
 </footer>

@@ -243,7 +243,7 @@
             radius: 25,
             blur: 20,
             maxZoom: 10,
-            gradient: { 0.2: '#333333', 0.5: '#888888', 1.0: '#ffffff' },
+            gradient: { 0.2: '#7f0000', 0.5: '#d62828', 0.8: '#ff4d4d', 1.0: '#ffb3b3' },
         });
 
         heatLayer.addTo(map);
